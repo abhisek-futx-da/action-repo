@@ -1,0 +1,6 @@
+{
+    "name": "action-repo",
+    "description": "Test repository for webhook events",
+    "version": "1.0.0",
+    "events": ["push", "pull_request", "merge"]
+}
