@@ -5,3 +5,4 @@ This repository is used to test GitHub webhook events.
 - Push events
 - Pull Request events
 - Merge events
+- Other events
